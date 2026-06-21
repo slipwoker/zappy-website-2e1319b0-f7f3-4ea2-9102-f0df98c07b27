@@ -1,0 +1,105 @@
+# Jezz store — Generative Engine Optimization Map
+
+> A second-hand gaming marketplace focused on buying and selling used gaming products such as consoles, controllers, games, and accessories. The platform targets gaming enthusiasts looking for affordable deals on pre-owned gear, combining the passion of gaming culture with the sustainability and value of the second-hand market.
+
+---
+
+## Pages
+
+### בית
+https://jezz-store-2e1319b0.zappy5.app
+גלה אלפי מוצרי גיימינג יד שנייה במצב מעולה – קונסולות, בקרים ומשחקים במחירים ששוברים את השוק. הצטרף לקהילת הגיימרים החכמה וחסוך בגדול. התחל לקנות עכשיו!
+
+### איך זה עובד
+https://jezz-store-2e1319b0.zappy5.app/how-it-works
+גלה איך להפוך ציוד גיימינג ישן לכסף או למצוא את הפנינה הבאה שלך בשלושה צעדים פשוטים. מכירה וקנייה חכמה של קונסולות ומשחקים מתחילה כאן. בוא לגיימינג חכם יותר!
+
+### קהילה ואמון
+https://jezz-store-2e1319b0.zappy5.app/community-trust
+אנחנו יותר מחנות – אנחנו קהילת גיימינג שבנויה על אמון, שקיפות ואהבה למשחקים. גלה איך אנחנו מבטיחים שכל עסקת ציוד גיימינג יד שנייה תהיה בטוחה והוגנת. הצטרף למשפחה!
+
+### צור קשר
+https://jezz-store-2e1319b0.zappy5.app/contact
+יש שאלה על משחק, קונסולה או בקר? צוות המומחים שלנו כאן כדי לעזור לך למצוא את ציוד הגיימינג היד שנייה המושלם. פנה אלינו עכשיו וקבל מענה מהיר – אנחנו מדברים גיימינג!
+
+### Products
+https://jezz-store-2e1319b0.zappy5.app/products
+המוצרים שלנו - Jezz store
+
+### Cart
+https://jezz-store-2e1319b0.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://jezz-store-2e1319b0.zappy5.app/checkout
+תשלום
+
+### Login
+https://jezz-store-2e1319b0.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://jezz-store-2e1319b0.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://jezz-store-2e1319b0.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://jezz-store-2e1319b0.zappy5.app/product/:slug
+פרטי המוצר - Jezz store
+
+### Category
+https://jezz-store-2e1319b0.zappy5.app/category/:slug
+מוצרים - Jezz store
+
+### תודה שפניתם אלינו
+https://jezz-store-2e1319b0.zappy5.app/thank-you
+Jezz store - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://jezz-store-2e1319b0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jezz-store-2e1319b0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jezz-store-2e1319b0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jezz store
+A second-hand gaming marketplace focused on buying and selling used gaming products such as consoles, controllers, games, and accessories. The platform targets gaming enthusiasts looking for affordable deals on pre-owned gear, combining the passion of gaming culture with the sustainability and value of the second-hand market.
+
+## Target Audience
+- גיימרים המחפשים לקנות או למכור ציוד גיימינג יד שנייה
+- גיימרים קונים ומוכרים
+- גיימרים בתקציב מוגבל
+- גיימרים ידידותיים לסביבה
+
+## Industry
+E-commerce / Second-hand Gaming Marketplace
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jezz-store-2e1319b0.zappy5.app/sitemap.xml
+- Robots: https://jezz-store-2e1319b0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jezz-store-2e1319b0.zappy5.app/llms-full.txt
+- Products (JSON): https://jezz-store-2e1319b0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://jezz-store-2e1319b0.zappy5.app/product-feed.xml
